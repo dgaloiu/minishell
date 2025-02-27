@@ -1,2 +1,1 @@
-# minishell
-Shell complet type bash
+A remplir
